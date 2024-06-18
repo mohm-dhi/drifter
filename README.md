@@ -1,4 +1,5 @@
-# drifter# MATLAB Scripts for Environmental Data Analysis and Particle Tracking
+# drifter
+# MATLAB Scripts for Environmental Data Analysis and Particle Tracking
 
 ## Overview
 
